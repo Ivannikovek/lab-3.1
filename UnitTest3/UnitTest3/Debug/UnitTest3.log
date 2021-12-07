@@ -1,0 +1,3 @@
+﻿  UnitTest3.cpp
+D:\User_data\Desktop\Оценка сложности алгоритмов\UnitTest3\UnitTest3\UnitTest3.cpp(67,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  UnitTest3.vcxproj -> D:\User_data\Desktop\Оценка сложности алгоритмов\UnitTest3\Debug\UnitTest3.dll
